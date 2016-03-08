@@ -1,0 +1,1180 @@
+18-02-2016 14:50:11 ::: Start of Function : getByCat
+18-02-2016 14:50:11 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27'
+18-02-2016 14:50:11 ::: End of Function : getByCat
+18-02-2016 14:50:11 ::: Start of Function : getCat
+18-02-2016 14:50:11 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 14:50:11 ::: End of Function : getCat
+18-02-2016 14:50:50 ::: Start of Function : getByCat
+18-02-2016 14:50:50 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27'
+18-02-2016 14:50:50 ::: End of Function : getByCat
+18-02-2016 14:50:50 ::: Start of Function : getCat
+18-02-2016 14:50:50 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 14:50:50 ::: End of Function : getCat
+18-02-2016 14:51:06 ::: Start of Function : getByCat
+18-02-2016 14:51:06 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27'
+18-02-2016 14:51:06 ::: End of Function : getByCat
+18-02-2016 14:51:06 ::: Start of Function : getCat
+18-02-2016 14:51:06 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 14:51:06 ::: End of Function : getCat
+18-02-2016 14:51:24 ::: Start of Function : getByCat
+18-02-2016 14:51:24 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27'
+18-02-2016 14:51:24 ::: End of Function : getByCat
+18-02-2016 14:51:24 ::: Start of Function : getCat
+18-02-2016 14:51:24 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 14:51:24 ::: End of Function : getCat
+18-02-2016 14:51:41 ::: Start of Function : getByCat
+18-02-2016 14:51:41 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27'
+18-02-2016 14:51:41 ::: End of Function : getByCat
+18-02-2016 14:51:41 ::: Start of Function : getCat
+18-02-2016 14:51:41 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 14:51:41 ::: End of Function : getCat
+18-02-2016 14:51:48 ::: Start of Function : getByCat
+18-02-2016 14:51:48 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27'
+18-02-2016 14:51:48 ::: End of Function : getByCat
+18-02-2016 14:51:48 ::: Start of Function : getCat
+18-02-2016 14:51:48 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 14:51:48 ::: End of Function : getCat
+18-02-2016 14:52:44 ::: Start of Function : getByCat
+18-02-2016 14:52:44 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27'
+18-02-2016 14:52:44 ::: End of Function : getByCat
+18-02-2016 14:52:44 ::: Start of Function : getCat
+18-02-2016 14:52:44 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 14:52:44 ::: End of Function : getCat
+18-02-2016 14:53:38 ::: Start of Function : getByCat
+18-02-2016 14:53:38 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27'
+18-02-2016 14:53:38 ::: End of Function : getByCat
+18-02-2016 14:53:38 ::: Start of Function : getCat
+18-02-2016 14:53:38 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 14:53:38 ::: End of Function : getCat
+18-02-2016 14:55:42 ::: Start of Function : getByCat
+18-02-2016 14:55:42 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27'
+18-02-2016 14:55:42 ::: End of Function : getByCat
+18-02-2016 14:55:42 ::: Start of Function : getCat
+18-02-2016 14:55:42 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 14:55:42 ::: End of Function : getCat
+18-02-2016 14:58:06 ::: Start of Function : getByCat
+18-02-2016 14:58:06 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27'
+18-02-2016 14:58:06 ::: End of Function : getByCat
+18-02-2016 14:58:06 ::: Start of Function : getCat
+18-02-2016 14:58:06 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 14:58:06 ::: End of Function : getCat
+18-02-2016 14:58:07 ::: Start of Function : getByCat
+18-02-2016 14:58:07 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27'
+18-02-2016 14:58:07 ::: End of Function : getByCat
+18-02-2016 14:58:07 ::: Start of Function : getCat
+18-02-2016 14:58:07 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 14:58:07 ::: End of Function : getCat
+18-02-2016 15:31:12 ::: Start of Function : getByCat
+18-02-2016 15:31:12 ::: Query Execution failed. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a WHERE `s.category_id` = '27'  ::: 
+18-02-2016 15:31:12 ::: End of Function : getByCat
+18-02-2016 15:31:12 ::: Start of Function : getCat
+18-02-2016 15:31:12 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 15:31:12 ::: End of Function : getCat
+18-02-2016 15:34:15 ::: Start of Function : getByCat
+18-02-2016 15:34:15 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27' 
+18-02-2016 15:34:15 ::: End of Function : getByCat
+18-02-2016 15:34:15 ::: Start of Function : getCat
+18-02-2016 15:34:15 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 15:34:15 ::: End of Function : getCat
+18-02-2016 15:36:38 ::: Start of Function : getByCat
+18-02-2016 15:36:38 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27' 
+18-02-2016 15:36:38 ::: End of Function : getByCat
+18-02-2016 15:36:38 ::: Start of Function : getCat
+18-02-2016 15:36:38 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 15:36:38 ::: End of Function : getCat
+18-02-2016 15:50:42 ::: Start of Function : getByCat
+18-02-2016 15:50:43 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27' 
+18-02-2016 15:50:43 ::: End of Function : getByCat
+18-02-2016 15:50:43 ::: Start of Function : getCat
+18-02-2016 15:50:43 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 15:50:43 ::: End of Function : getCat
+18-02-2016 15:50:58 ::: Start of Function : getByCat
+18-02-2016 15:50:58 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27' 
+18-02-2016 15:50:58 ::: End of Function : getByCat
+18-02-2016 15:50:58 ::: Start of Function : getCat
+18-02-2016 15:50:58 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 15:50:58 ::: End of Function : getCat
+18-02-2016 15:51:41 ::: Start of Function : getByCat
+18-02-2016 15:51:41 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27' 
+18-02-2016 15:51:41 ::: End of Function : getByCat
+18-02-2016 15:51:41 ::: Start of Function : getCat
+18-02-2016 15:51:41 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 15:51:41 ::: End of Function : getCat
+18-02-2016 15:52:16 ::: Start of Function : getByCat
+18-02-2016 15:52:16 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` WHERE `category_id` = '27' 
+18-02-2016 15:52:16 ::: End of Function : getByCat
+18-02-2016 15:52:16 ::: Start of Function : getCat
+18-02-2016 15:52:16 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 15:52:16 ::: End of Function : getCat
+18-02-2016 15:56:03 ::: Start of Function : getByCat
+18-02-2016 15:56:03 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 15:56:03 ::: End of Function : getByCat
+18-02-2016 15:56:03 ::: Start of Function : getCat
+18-02-2016 15:56:03 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 15:56:03 ::: End of Function : getCat
+18-02-2016 15:56:34 ::: Start of Function : getByCat
+18-02-2016 15:56:34 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 15:56:34 ::: End of Function : getByCat
+18-02-2016 15:56:34 ::: Start of Function : getCat
+18-02-2016 15:56:34 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 15:56:34 ::: End of Function : getCat
+18-02-2016 15:57:17 ::: Start of Function : getByCat
+18-02-2016 15:57:17 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 15:57:17 ::: End of Function : getByCat
+18-02-2016 15:57:17 ::: Start of Function : getCat
+18-02-2016 15:57:17 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 15:57:17 ::: End of Function : getCat
+18-02-2016 15:58:11 ::: Start of Function : getByCat
+18-02-2016 15:58:11 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 15:58:11 ::: End of Function : getByCat
+18-02-2016 15:58:11 ::: Start of Function : getCat
+18-02-2016 15:58:11 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 15:58:11 ::: End of Function : getCat
+18-02-2016 16:00:44 ::: Start of Function : getByCat
+18-02-2016 16:00:45 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:00:45 ::: End of Function : getByCat
+18-02-2016 16:00:45 ::: Start of Function : getCat
+18-02-2016 16:00:45 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:00:45 ::: End of Function : getCat
+18-02-2016 16:04:36 ::: Start of Function : getByCat
+18-02-2016 16:04:37 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:04:37 ::: End of Function : getByCat
+18-02-2016 16:04:37 ::: Start of Function : getCat
+18-02-2016 16:04:37 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:04:37 ::: End of Function : getCat
+18-02-2016 16:10:48 ::: Start of Function : getByCat
+18-02-2016 16:10:49 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:10:49 ::: End of Function : getByCat
+18-02-2016 16:10:49 ::: Start of Function : getCat
+18-02-2016 16:10:49 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:10:49 ::: End of Function : getCat
+18-02-2016 16:17:25 ::: Start of Function : getByCat
+18-02-2016 16:17:25 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:17:25 ::: End of Function : getByCat
+18-02-2016 16:17:25 ::: Start of Function : getCat
+18-02-2016 16:17:25 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:17:25 ::: End of Function : getCat
+18-02-2016 16:19:33 ::: Start of Function : getByCat
+18-02-2016 16:19:33 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:19:33 ::: End of Function : getByCat
+18-02-2016 16:19:33 ::: Start of Function : getCat
+18-02-2016 16:19:33 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:19:33 ::: End of Function : getCat
+18-02-2016 16:19:54 ::: Start of Function : getByCat
+18-02-2016 16:19:54 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:19:54 ::: End of Function : getByCat
+18-02-2016 16:19:54 ::: Start of Function : getCat
+18-02-2016 16:19:54 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:19:54 ::: End of Function : getCat
+18-02-2016 16:24:40 ::: Start of Function : getByCat
+18-02-2016 16:24:40 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:24:40 ::: End of Function : getByCat
+18-02-2016 16:24:40 ::: Start of Function : getCat
+18-02-2016 16:24:40 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:24:40 ::: End of Function : getCat
+18-02-2016 16:24:40 ::: Start of Function : getAllCat
+18-02-2016 16:24:40 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 16:24:40 ::: End of Function : getAllCat
+18-02-2016 16:25:56 ::: Start of Function : getByCat
+18-02-2016 16:25:56 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:25:56 ::: End of Function : getByCat
+18-02-2016 16:25:56 ::: Start of Function : getCat
+18-02-2016 16:25:56 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:25:56 ::: End of Function : getCat
+18-02-2016 16:25:56 ::: Start of Function : getAllCat
+18-02-2016 16:25:56 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 16:25:56 ::: End of Function : getAllCat
+18-02-2016 16:26:05 ::: Start of Function : getByCat
+18-02-2016 16:26:05 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:26:05 ::: End of Function : getByCat
+18-02-2016 16:26:05 ::: Start of Function : getCat
+18-02-2016 16:26:05 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:26:05 ::: End of Function : getCat
+18-02-2016 16:26:05 ::: Start of Function : getAllCat
+18-02-2016 16:26:05 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 16:26:05 ::: End of Function : getAllCat
+18-02-2016 16:28:34 ::: Start of Function : getByCat
+18-02-2016 16:28:34 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:28:34 ::: End of Function : getByCat
+18-02-2016 16:28:34 ::: Start of Function : getCat
+18-02-2016 16:28:34 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:28:34 ::: End of Function : getCat
+18-02-2016 16:28:34 ::: Start of Function : getAllCat
+18-02-2016 16:28:34 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 16:28:34 ::: End of Function : getAllCat
+18-02-2016 16:28:57 ::: Start of Function : getByCat
+18-02-2016 16:28:57 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:28:57 ::: End of Function : getByCat
+18-02-2016 16:28:57 ::: Start of Function : getCat
+18-02-2016 16:28:57 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:28:57 ::: End of Function : getCat
+18-02-2016 16:28:57 ::: Start of Function : getAllCat
+18-02-2016 16:28:57 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 16:28:57 ::: End of Function : getAllCat
+18-02-2016 16:29:24 ::: Start of Function : getByCat
+18-02-2016 16:29:24 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:29:24 ::: End of Function : getByCat
+18-02-2016 16:29:24 ::: Start of Function : getCat
+18-02-2016 16:29:24 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:29:24 ::: End of Function : getCat
+18-02-2016 16:29:24 ::: Start of Function : getAllCat
+18-02-2016 16:29:24 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 16:29:24 ::: End of Function : getAllCat
+18-02-2016 16:40:27 ::: Start of Function : getByCat
+18-02-2016 16:40:28 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:40:28 ::: End of Function : getByCat
+18-02-2016 16:40:28 ::: Start of Function : getCat
+18-02-2016 16:40:28 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:40:28 ::: End of Function : getCat
+18-02-2016 16:40:28 ::: Start of Function : getAllCat
+18-02-2016 16:40:28 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 16:40:28 ::: End of Function : getAllCat
+18-02-2016 16:40:40 ::: Start of Function : getByCat
+18-02-2016 16:40:40 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:40:40 ::: End of Function : getByCat
+18-02-2016 16:40:40 ::: Start of Function : getCat
+18-02-2016 16:40:40 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:40:40 ::: End of Function : getCat
+18-02-2016 16:40:40 ::: Start of Function : getAllCat
+18-02-2016 16:40:40 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 16:40:40 ::: End of Function : getAllCat
+18-02-2016 16:43:32 ::: Start of Function : getByCat
+18-02-2016 16:43:32 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:43:32 ::: End of Function : getByCat
+18-02-2016 16:43:32 ::: Start of Function : getCat
+18-02-2016 16:43:32 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:43:32 ::: End of Function : getCat
+18-02-2016 16:43:32 ::: Start of Function : getAllCat
+18-02-2016 16:43:32 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 16:43:32 ::: End of Function : getAllCat
+18-02-2016 16:48:54 ::: Start of Function : getByCat
+18-02-2016 16:48:54 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:48:54 ::: End of Function : getByCat
+18-02-2016 16:48:54 ::: Start of Function : getCat
+18-02-2016 16:48:54 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:48:54 ::: End of Function : getCat
+18-02-2016 16:48:54 ::: Start of Function : getAllCat
+18-02-2016 16:48:54 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 16:48:54 ::: End of Function : getAllCat
+18-02-2016 16:49:12 ::: Start of Function : getByCat
+18-02-2016 16:49:12 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 16:49:12 ::: End of Function : getByCat
+18-02-2016 16:49:12 ::: Start of Function : getCat
+18-02-2016 16:49:12 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 16:49:12 ::: End of Function : getCat
+18-02-2016 16:49:12 ::: Start of Function : getAllCat
+18-02-2016 16:49:12 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 16:49:12 ::: End of Function : getAllCat
+18-02-2016 17:14:40 ::: Start of Function : getByCat
+18-02-2016 17:14:41 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 17:14:41 ::: End of Function : getByCat
+18-02-2016 17:14:41 ::: Start of Function : getCat
+18-02-2016 17:14:41 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 17:14:41 ::: End of Function : getCat
+18-02-2016 17:14:41 ::: Start of Function : getAllCat
+18-02-2016 17:14:41 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:14:41 ::: End of Function : getAllCat
+18-02-2016 17:18:00 ::: Start of Function : getByCat
+18-02-2016 17:18:00 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '' 
+18-02-2016 17:18:00 ::: End of Function : getByCat
+18-02-2016 17:18:00 ::: Start of Function : getCat
+18-02-2016 17:18:00 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '' AND `show_in_app` = 1
+18-02-2016 17:18:00 ::: End of Function : getCat
+18-02-2016 17:18:00 ::: Start of Function : getAllCat
+18-02-2016 17:18:00 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:18:00 ::: End of Function : getAllCat
+18-02-2016 17:18:58 ::: Start of Function : getByCat
+18-02-2016 17:18:58 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '' 
+18-02-2016 17:18:58 ::: End of Function : getByCat
+18-02-2016 17:18:58 ::: Start of Function : getCat
+18-02-2016 17:18:58 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '' AND `show_in_app` = 1
+18-02-2016 17:18:58 ::: End of Function : getCat
+18-02-2016 17:18:58 ::: Start of Function : getAllCat
+18-02-2016 17:18:58 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:18:58 ::: End of Function : getAllCat
+18-02-2016 17:21:35 ::: Start of Function : getAllCat
+18-02-2016 17:21:35 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:21:35 ::: End of Function : getAllCat
+18-02-2016 17:21:38 ::: Start of Function : getAllCat
+18-02-2016 17:21:38 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:21:38 ::: End of Function : getAllCat
+18-02-2016 17:21:38 ::: Start of Function : getByCat
+18-02-2016 17:21:38 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '24' 
+18-02-2016 17:21:38 ::: End of Function : getByCat
+18-02-2016 17:21:38 ::: Start of Function : getCat
+18-02-2016 17:21:38 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+18-02-2016 17:21:38 ::: End of Function : getCat
+18-02-2016 17:21:38 ::: Start of Function : getAllCat
+18-02-2016 17:21:38 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:21:38 ::: End of Function : getAllCat
+18-02-2016 17:21:57 ::: Start of Function : getAllCat
+18-02-2016 17:21:57 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:21:57 ::: End of Function : getAllCat
+18-02-2016 17:21:57 ::: Start of Function : getByCat
+18-02-2016 17:21:57 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 17:21:58 ::: End of Function : getByCat
+18-02-2016 17:21:58 ::: Start of Function : getCat
+18-02-2016 17:21:58 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 17:21:58 ::: End of Function : getCat
+18-02-2016 17:21:58 ::: Start of Function : getAllCat
+18-02-2016 17:21:58 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:21:58 ::: End of Function : getAllCat
+18-02-2016 17:22:04 ::: Start of Function : getAllCat
+18-02-2016 17:22:04 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:22:04 ::: End of Function : getAllCat
+18-02-2016 17:22:04 ::: Start of Function : getByCat
+18-02-2016 17:22:04 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '24' 
+18-02-2016 17:22:04 ::: End of Function : getByCat
+18-02-2016 17:22:04 ::: Start of Function : getCat
+18-02-2016 17:22:04 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+18-02-2016 17:22:04 ::: End of Function : getCat
+18-02-2016 17:22:04 ::: Start of Function : getAllCat
+18-02-2016 17:22:04 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:22:04 ::: End of Function : getAllCat
+18-02-2016 17:22:10 ::: Start of Function : getAllCat
+18-02-2016 17:22:10 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:22:10 ::: End of Function : getAllCat
+18-02-2016 17:22:10 ::: Start of Function : getByCat
+18-02-2016 17:22:10 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '151' 
+18-02-2016 17:22:10 ::: End of Function : getByCat
+18-02-2016 17:22:10 ::: Start of Function : getCat
+18-02-2016 17:22:10 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '151' AND `show_in_app` = 1
+18-02-2016 17:22:10 ::: End of Function : getCat
+18-02-2016 17:22:10 ::: Start of Function : getAllCat
+18-02-2016 17:22:10 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:22:10 ::: End of Function : getAllCat
+18-02-2016 17:22:47 ::: Start of Function : getAllCat
+18-02-2016 17:22:47 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:22:47 ::: End of Function : getAllCat
+18-02-2016 17:22:47 ::: Start of Function : getByCat
+18-02-2016 17:22:47 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '151' 
+18-02-2016 17:22:47 ::: End of Function : getByCat
+18-02-2016 17:22:47 ::: Start of Function : getCat
+18-02-2016 17:22:47 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '151' AND `show_in_app` = 1
+18-02-2016 17:22:47 ::: End of Function : getCat
+18-02-2016 17:22:47 ::: Start of Function : getAllCat
+18-02-2016 17:22:47 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:22:47 ::: End of Function : getAllCat
+18-02-2016 17:26:15 ::: Start of Function : getAllCat
+18-02-2016 17:26:15 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:26:15 ::: End of Function : getAllCat
+18-02-2016 17:26:15 ::: Start of Function : getByCat
+18-02-2016 17:26:15 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '151' 
+18-02-2016 17:26:15 ::: End of Function : getByCat
+18-02-2016 17:26:15 ::: Start of Function : getCat
+18-02-2016 17:26:15 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '151' AND `show_in_app` = 1
+18-02-2016 17:26:15 ::: End of Function : getCat
+18-02-2016 17:26:15 ::: Start of Function : getAllCat
+18-02-2016 17:26:15 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:26:15 ::: End of Function : getAllCat
+18-02-2016 17:26:34 ::: Start of Function : getAllCat
+18-02-2016 17:26:34 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:26:34 ::: End of Function : getAllCat
+18-02-2016 17:26:34 ::: Start of Function : getByCat
+18-02-2016 17:26:34 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '151' 
+18-02-2016 17:26:34 ::: End of Function : getByCat
+18-02-2016 17:26:34 ::: Start of Function : getCat
+18-02-2016 17:26:34 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '151' AND `show_in_app` = 1
+18-02-2016 17:26:34 ::: End of Function : getCat
+18-02-2016 17:26:34 ::: Start of Function : getAllCat
+18-02-2016 17:26:34 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:26:34 ::: End of Function : getAllCat
+18-02-2016 17:27:17 ::: Start of Function : getAllCat
+18-02-2016 17:27:17 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:27:17 ::: End of Function : getAllCat
+18-02-2016 17:27:17 ::: Start of Function : getByCat
+18-02-2016 17:27:17 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '151' 
+18-02-2016 17:27:17 ::: End of Function : getByCat
+18-02-2016 17:27:17 ::: Start of Function : getCat
+18-02-2016 17:27:17 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '151' AND `show_in_app` = 1
+18-02-2016 17:27:17 ::: End of Function : getCat
+18-02-2016 17:27:17 ::: Start of Function : getAllCat
+18-02-2016 17:27:18 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:27:18 ::: End of Function : getAllCat
+18-02-2016 17:28:04 ::: Start of Function : getAllCat
+18-02-2016 17:28:04 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:28:04 ::: End of Function : getAllCat
+18-02-2016 17:28:57 ::: Start of Function : getAllCat
+18-02-2016 17:28:57 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:28:57 ::: End of Function : getAllCat
+18-02-2016 17:29:01 ::: Start of Function : getAllCat
+18-02-2016 17:29:01 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:29:01 ::: End of Function : getAllCat
+18-02-2016 17:29:01 ::: Start of Function : getByCat
+18-02-2016 17:29:01 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '24' 
+18-02-2016 17:29:01 ::: End of Function : getByCat
+18-02-2016 17:29:01 ::: Start of Function : getCat
+18-02-2016 17:29:01 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+18-02-2016 17:29:01 ::: End of Function : getCat
+18-02-2016 17:29:01 ::: Start of Function : getAllCat
+18-02-2016 17:29:01 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:29:01 ::: End of Function : getAllCat
+18-02-2016 17:30:34 ::: Start of Function : getAllCat
+18-02-2016 17:30:34 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:30:34 ::: End of Function : getAllCat
+18-02-2016 17:30:44 ::: Start of Function : getAllCat
+18-02-2016 17:30:44 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:30:44 ::: End of Function : getAllCat
+18-02-2016 17:30:52 ::: Start of Function : getAllCat
+18-02-2016 17:30:52 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:30:52 ::: End of Function : getAllCat
+18-02-2016 17:30:57 ::: Start of Function : getAllCat
+18-02-2016 17:30:57 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:30:57 ::: End of Function : getAllCat
+18-02-2016 17:31:07 ::: Start of Function : getAllCat
+18-02-2016 17:31:07 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:31:07 ::: End of Function : getAllCat
+18-02-2016 17:31:13 ::: Start of Function : getAllCat
+18-02-2016 17:31:13 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:31:13 ::: End of Function : getAllCat
+18-02-2016 17:31:20 ::: Start of Function : getAllCat
+18-02-2016 17:31:20 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:31:20 ::: End of Function : getAllCat
+18-02-2016 17:32:04 ::: Start of Function : getAllCat
+18-02-2016 17:32:04 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:32:04 ::: End of Function : getAllCat
+18-02-2016 17:32:11 ::: Start of Function : getAllCat
+18-02-2016 17:32:11 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:32:11 ::: End of Function : getAllCat
+18-02-2016 17:32:45 ::: Start of Function : getAllCat
+18-02-2016 17:32:45 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:32:45 ::: End of Function : getAllCat
+18-02-2016 17:33:23 ::: Start of Function : getAllCat
+18-02-2016 17:33:23 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:33:23 ::: End of Function : getAllCat
+18-02-2016 17:34:06 ::: Start of Function : getAllCat
+18-02-2016 17:34:06 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:34:06 ::: End of Function : getAllCat
+18-02-2016 17:44:29 ::: Start of Function : getAllCat
+18-02-2016 17:44:29 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:44:29 ::: End of Function : getAllCat
+18-02-2016 17:45:12 ::: Start of Function : getAllCat
+18-02-2016 17:45:12 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:45:12 ::: End of Function : getAllCat
+18-02-2016 17:45:28 ::: Start of Function : getAllCat
+18-02-2016 17:45:28 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:45:28 ::: End of Function : getAllCat
+18-02-2016 17:49:39 ::: Start of Function : getAllCat
+18-02-2016 17:49:39 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:49:39 ::: End of Function : getAllCat
+18-02-2016 17:51:06 ::: Start of Function : getAllCat
+18-02-2016 17:51:06 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:51:06 ::: End of Function : getAllCat
+18-02-2016 17:51:06 ::: Start of Function : getByCat
+18-02-2016 17:51:06 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '160' 
+18-02-2016 17:51:06 ::: End of Function : getByCat
+18-02-2016 17:51:06 ::: Start of Function : getCat
+18-02-2016 17:51:07 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '160' AND `show_in_app` = 1
+18-02-2016 17:51:07 ::: End of Function : getCat
+18-02-2016 17:51:07 ::: Start of Function : getAllCat
+18-02-2016 17:51:07 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:51:07 ::: End of Function : getAllCat
+18-02-2016 17:51:22 ::: Start of Function : getAllCat
+18-02-2016 17:51:22 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:51:22 ::: End of Function : getAllCat
+18-02-2016 17:51:26 ::: Start of Function : getAllCat
+18-02-2016 17:51:26 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:51:26 ::: End of Function : getAllCat
+18-02-2016 17:51:26 ::: Start of Function : getByCat
+18-02-2016 17:51:26 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '160' 
+18-02-2016 17:51:26 ::: End of Function : getByCat
+18-02-2016 17:51:26 ::: Start of Function : getCat
+18-02-2016 17:51:26 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '160' AND `show_in_app` = 1
+18-02-2016 17:51:26 ::: End of Function : getCat
+18-02-2016 17:51:26 ::: Start of Function : getAllCat
+18-02-2016 17:51:26 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:51:26 ::: End of Function : getAllCat
+18-02-2016 17:51:51 ::: Start of Function : getAllCat
+18-02-2016 17:51:51 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:51:51 ::: End of Function : getAllCat
+18-02-2016 17:51:51 ::: Start of Function : getByCat
+18-02-2016 17:51:51 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' 
+18-02-2016 17:51:51 ::: End of Function : getByCat
+18-02-2016 17:51:51 ::: Start of Function : getCat
+18-02-2016 17:51:51 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+18-02-2016 17:51:51 ::: End of Function : getCat
+18-02-2016 17:51:51 ::: Start of Function : getAllCat
+18-02-2016 17:51:51 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:51:51 ::: End of Function : getAllCat
+18-02-2016 17:52:56 ::: Start of Function : getAllCat
+18-02-2016 17:52:56 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:52:56 ::: End of Function : getAllCat
+18-02-2016 17:52:56 ::: Start of Function : getByCat
+18-02-2016 17:52:56 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '24' 
+18-02-2016 17:52:56 ::: End of Function : getByCat
+18-02-2016 17:52:56 ::: Start of Function : getCat
+18-02-2016 17:52:56 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+18-02-2016 17:52:56 ::: End of Function : getCat
+18-02-2016 17:52:56 ::: Start of Function : getAllCat
+18-02-2016 17:52:56 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:52:56 ::: End of Function : getAllCat
+18-02-2016 17:53:11 ::: Start of Function : getAllCat
+18-02-2016 17:53:11 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:53:11 ::: End of Function : getAllCat
+18-02-2016 17:53:11 ::: Start of Function : getByCat
+18-02-2016 17:53:11 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '151' 
+18-02-2016 17:53:11 ::: End of Function : getByCat
+18-02-2016 17:53:11 ::: Start of Function : getCat
+18-02-2016 17:53:11 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '151' AND `show_in_app` = 1
+18-02-2016 17:53:11 ::: End of Function : getCat
+18-02-2016 17:53:11 ::: Start of Function : getAllCat
+18-02-2016 17:53:11 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:53:11 ::: End of Function : getAllCat
+18-02-2016 17:53:21 ::: Start of Function : getAllCat
+18-02-2016 17:53:21 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+18-02-2016 17:53:21 ::: End of Function : getAllCat
+19-02-2016 11:04:27 ::: Start of Function : getAllCat
+19-02-2016 11:04:27 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+19-02-2016 11:04:27 ::: End of Function : getAllCat
+19-02-2016 12:28:27 ::: Start of Function : getAllCat
+19-02-2016 12:28:27 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+19-02-2016 12:28:27 ::: End of Function : getAllCat
+19-02-2016 12:29:25 ::: Start of Function : getAllCat
+19-02-2016 12:29:25 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+19-02-2016 12:29:25 ::: End of Function : getAllCat
+19-02-2016 12:33:04 ::: Start of Function : getAllCat
+19-02-2016 12:33:04 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+19-02-2016 12:33:04 ::: End of Function : getAllCat
+19-02-2016 14:32:13 ::: Start of Function : getAllCat
+19-02-2016 14:32:17 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+19-02-2016 14:32:17 ::: End of Function : getAllCat
+20-02-2016 15:28:51 ::: Start of Function : getAllCat
+20-02-2016 15:28:52 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+20-02-2016 15:28:52 ::: End of Function : getAllCat
+20-02-2016 15:28:57 ::: Start of Function : getAllCat
+20-02-2016 15:28:57 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+20-02-2016 15:28:57 ::: End of Function : getAllCat
+20-02-2016 15:28:57 ::: Start of Function : getByCat
+20-02-2016 15:28:57 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '24' 
+20-02-2016 15:28:57 ::: End of Function : getByCat
+20-02-2016 15:28:57 ::: Start of Function : getCat
+20-02-2016 15:28:57 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+20-02-2016 15:28:57 ::: End of Function : getCat
+20-02-2016 15:28:57 ::: Start of Function : getAllCat
+20-02-2016 15:28:57 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+20-02-2016 15:28:57 ::: End of Function : getAllCat
+27-02-2016 14:05:31 ::: Start of Function : getAllCat
+27-02-2016 14:05:31 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+27-02-2016 14:05:31 ::: End of Function : getAllCat
+27-02-2016 14:08:53 ::: Start of Function : getAllCat
+27-02-2016 14:08:53 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+27-02-2016 14:08:53 ::: End of Function : getAllCat
+27-02-2016 14:08:53 ::: Start of Function : getByCat
+27-02-2016 14:08:53 ::: Query Execution failed. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '24' UNION SELECT * FROM `ownerservice` WHERE `category_id` = '24';
+		
+		 ::: 
+27-02-2016 14:08:53 ::: End of Function : getByCat
+27-02-2016 14:08:53 ::: Start of Function : getCat
+27-02-2016 14:08:53 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+27-02-2016 14:08:53 ::: End of Function : getCat
+27-02-2016 14:08:53 ::: Start of Function : getAllCat
+27-02-2016 14:08:53 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+27-02-2016 14:08:53 ::: End of Function : getAllCat
+27-02-2016 14:08:58 ::: Start of Function : getAllCat
+27-02-2016 14:08:58 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+27-02-2016 14:08:58 ::: End of Function : getAllCat
+27-02-2016 14:08:58 ::: Start of Function : getByCat
+27-02-2016 14:08:58 ::: Query Execution failed. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' UNION SELECT * FROM `ownerservice` WHERE `category_id` = '27';
+		
+		 ::: 
+27-02-2016 14:08:58 ::: End of Function : getByCat
+27-02-2016 14:08:58 ::: Start of Function : getCat
+27-02-2016 14:08:58 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+27-02-2016 14:08:58 ::: End of Function : getCat
+27-02-2016 14:08:58 ::: Start of Function : getAllCat
+27-02-2016 14:08:58 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+27-02-2016 14:08:58 ::: End of Function : getAllCat
+27-02-2016 14:09:10 ::: Start of Function : getAllCat
+27-02-2016 14:09:10 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+27-02-2016 14:09:10 ::: End of Function : getAllCat
+01-03-2016 17:19:11 ::: Start of Function : getAllCat
+01-03-2016 17:19:11 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+01-03-2016 17:19:11 ::: End of Function : getAllCat
+01-03-2016 17:21:15 ::: Start of Function : getAllCat
+01-03-2016 17:21:15 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+01-03-2016 17:21:15 ::: End of Function : getAllCat
+01-03-2016 17:21:18 ::: Start of Function : getAllCat
+01-03-2016 17:21:18 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+01-03-2016 17:21:18 ::: End of Function : getAllCat
+01-03-2016 17:21:29 ::: Start of Function : getAllCat
+01-03-2016 17:21:29 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+01-03-2016 17:21:29 ::: End of Function : getAllCat
+01-03-2016 17:22:41 ::: Start of Function : getAllCat
+01-03-2016 17:22:41 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+01-03-2016 17:22:41 ::: End of Function : getAllCat
+01-03-2016 17:22:52 ::: Start of Function : getAllCat
+01-03-2016 17:22:52 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+01-03-2016 17:22:52 ::: End of Function : getAllCat
+02-03-2016 12:03:49 ::: Start of Function : getAllCat
+02-03-2016 12:04:01 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 12:04:01 ::: End of Function : getAllCat
+02-03-2016 12:06:37 ::: Start of Function : getAllCat
+02-03-2016 12:06:38 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 12:06:38 ::: End of Function : getAllCat
+02-03-2016 12:06:50 ::: Start of Function : getAllCat
+02-03-2016 12:06:50 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 12:06:50 ::: End of Function : getAllCat
+02-03-2016 12:38:52 ::: Start of Function : getAllCat
+02-03-2016 12:38:52 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 12:38:52 ::: End of Function : getAllCat
+02-03-2016 12:39:31 ::: Start of Function : getAllCat
+02-03-2016 12:39:31 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 12:39:31 ::: End of Function : getAllCat
+02-03-2016 12:40:30 ::: Start of Function : getAllCat
+02-03-2016 12:40:30 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 12:40:30 ::: End of Function : getAllCat
+02-03-2016 12:51:33 ::: Start of Function : getAllCat
+02-03-2016 12:51:33 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 12:51:33 ::: End of Function : getAllCat
+02-03-2016 12:58:02 ::: Start of Function : getAllCat
+02-03-2016 12:58:02 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 12:58:02 ::: End of Function : getAllCat
+02-03-2016 12:59:41 ::: Start of Function : getAllCat
+02-03-2016 12:59:41 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 12:59:41 ::: End of Function : getAllCat
+02-03-2016 13:00:56 ::: Start of Function : getAllCat
+02-03-2016 13:00:56 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 13:00:56 ::: End of Function : getAllCat
+02-03-2016 13:01:22 ::: Start of Function : getAllCat
+02-03-2016 13:01:22 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 13:01:22 ::: End of Function : getAllCat
+02-03-2016 13:01:58 ::: Start of Function : getAllCat
+02-03-2016 13:01:58 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 13:01:58 ::: End of Function : getAllCat
+02-03-2016 13:02:46 ::: Start of Function : getAllCat
+02-03-2016 13:02:46 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 13:02:46 ::: End of Function : getAllCat
+02-03-2016 13:45:40 ::: Start of Function : getAllCat
+02-03-2016 13:45:40 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 13:45:40 ::: End of Function : getAllCat
+02-03-2016 13:45:55 ::: Start of Function : getAllCat
+02-03-2016 13:45:55 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 13:45:55 ::: End of Function : getAllCat
+02-03-2016 13:50:03 ::: Start of Function : getAllCat
+02-03-2016 13:50:03 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 13:50:03 ::: End of Function : getAllCat
+02-03-2016 13:55:58 ::: Start of Function : getAllCat
+02-03-2016 13:55:59 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 13:55:59 ::: End of Function : getAllCat
+02-03-2016 13:56:04 ::: Start of Function : getAllCat
+02-03-2016 13:56:04 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 13:56:04 ::: End of Function : getAllCat
+02-03-2016 13:56:12 ::: Start of Function : getAllCat
+02-03-2016 13:56:12 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 13:56:12 ::: End of Function : getAllCat
+02-03-2016 13:56:36 ::: Start of Function : getAllCat
+02-03-2016 13:56:36 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 13:56:36 ::: End of Function : getAllCat
+02-03-2016 15:02:52 ::: Start of Function : getAllCat
+02-03-2016 15:02:53 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 15:02:53 ::: End of Function : getAllCat
+02-03-2016 15:03:27 ::: Start of Function : getAllCat
+02-03-2016 15:03:27 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 15:03:27 ::: End of Function : getAllCat
+02-03-2016 15:03:27 ::: Start of Function : getAllCat
+02-03-2016 15:03:27 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 15:03:27 ::: End of Function : getAllCat
+02-03-2016 15:08:49 ::: Start of Function : getAllCat
+02-03-2016 15:08:49 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 15:08:49 ::: End of Function : getAllCat
+02-03-2016 15:17:58 ::: Start of Function : getAllCat
+02-03-2016 15:17:58 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 15:17:58 ::: End of Function : getAllCat
+02-03-2016 15:17:58 ::: Start of Function : getAllCat
+02-03-2016 15:17:58 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 15:17:58 ::: End of Function : getAllCat
+02-03-2016 15:18:01 ::: Start of Function : getAllCat
+02-03-2016 15:18:01 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 15:18:01 ::: End of Function : getAllCat
+02-03-2016 15:19:48 ::: Start of Function : getAllCat
+02-03-2016 15:19:48 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 15:19:48 ::: End of Function : getAllCat
+02-03-2016 15:19:48 ::: Start of Function : getAllCat
+02-03-2016 15:19:48 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 15:19:48 ::: End of Function : getAllCat
+02-03-2016 15:19:48 ::: Start of Function : getAllCat
+02-03-2016 15:19:48 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 15:19:48 ::: End of Function : getAllCat
+02-03-2016 15:22:49 ::: Start of Function : getAllCat
+02-03-2016 15:22:49 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 15:22:49 ::: End of Function : getAllCat
+02-03-2016 15:25:04 ::: Start of Function : getAllCat
+02-03-2016 15:25:04 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 15:25:04 ::: End of Function : getAllCat
+02-03-2016 15:25:04 ::: Start of Function : getAllCat
+02-03-2016 15:25:04 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 15:25:04 ::: End of Function : getAllCat
+02-03-2016 15:35:42 ::: Start of Function : getAllCat
+02-03-2016 15:35:42 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 15:35:42 ::: End of Function : getAllCat
+02-03-2016 15:35:42 ::: Start of Function : getByCat
+02-03-2016 15:35:43 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '24' ;
+		
+		
+02-03-2016 15:35:43 ::: End of Function : getByCat
+02-03-2016 15:35:43 ::: Start of Function : getCat
+02-03-2016 15:35:43 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+02-03-2016 15:35:43 ::: End of Function : getCat
+02-03-2016 15:35:43 ::: Start of Function : getAllCat
+02-03-2016 15:35:43 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 15:35:43 ::: End of Function : getAllCat
+02-03-2016 16:15:37 ::: Start of Function : getAllCat
+02-03-2016 16:15:37 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 16:15:37 ::: End of Function : getAllCat
+02-03-2016 19:17:52 ::: Start of Function : getAllCat
+02-03-2016 19:17:52 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 19:17:52 ::: End of Function : getAllCat
+02-03-2016 19:17:52 ::: Start of Function : getAllCat
+02-03-2016 19:17:52 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+02-03-2016 19:17:52 ::: End of Function : getAllCat
+03-03-2016 12:40:55 ::: Start of Function : getAllCat
+03-03-2016 12:40:58 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+03-03-2016 12:40:58 ::: End of Function : getAllCat
+03-03-2016 18:31:04 ::: Start of Function : getAllCat
+03-03-2016 18:31:07 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+03-03-2016 18:31:07 ::: End of Function : getAllCat
+03-03-2016 18:32:14 ::: Start of Function : getAllCat
+03-03-2016 18:32:14 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+03-03-2016 18:32:14 ::: End of Function : getAllCat
+03-03-2016 18:37:02 ::: Start of Function : getAllCat
+03-03-2016 18:37:02 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+03-03-2016 18:37:02 ::: End of Function : getAllCat
+03-03-2016 18:54:59 ::: Start of Function : getAllCat
+03-03-2016 18:54:59 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+03-03-2016 18:54:59 ::: End of Function : getAllCat
+03-03-2016 18:55:33 ::: Start of Function : getAllCat
+03-03-2016 18:55:33 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+03-03-2016 18:55:33 ::: End of Function : getAllCat
+03-03-2016 18:55:44 ::: Start of Function : getAllCat
+03-03-2016 18:55:44 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+03-03-2016 18:55:44 ::: End of Function : getAllCat
+03-03-2016 19:00:17 ::: Start of Function : getAllCat
+03-03-2016 19:00:17 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+03-03-2016 19:00:17 ::: End of Function : getAllCat
+03-03-2016 23:32:34 ::: Start of Function : getAllCat
+03-03-2016 23:32:36 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+03-03-2016 23:32:36 ::: End of Function : getAllCat
+04-03-2016 00:16:03 ::: Start of Function : getAllCat
+04-03-2016 00:16:03 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:16:03 ::: End of Function : getAllCat
+04-03-2016 00:16:28 ::: Start of Function : getAllCat
+04-03-2016 00:16:28 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:16:28 ::: End of Function : getAllCat
+04-03-2016 00:18:17 ::: Start of Function : getAllCat
+04-03-2016 00:18:17 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:18:17 ::: End of Function : getAllCat
+04-03-2016 00:21:01 ::: Start of Function : getAllCat
+04-03-2016 00:21:01 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:21:01 ::: End of Function : getAllCat
+04-03-2016 00:21:19 ::: Start of Function : getAllCat
+04-03-2016 00:21:19 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:21:19 ::: End of Function : getAllCat
+04-03-2016 00:21:50 ::: Start of Function : getAllCat
+04-03-2016 00:21:50 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:21:50 ::: End of Function : getAllCat
+04-03-2016 00:22:08 ::: Start of Function : getAllCat
+04-03-2016 00:22:08 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:22:08 ::: End of Function : getAllCat
+04-03-2016 00:22:16 ::: Start of Function : getAllCat
+04-03-2016 00:22:16 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:22:16 ::: End of Function : getAllCat
+04-03-2016 00:22:37 ::: Start of Function : getAllCat
+04-03-2016 00:22:37 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:22:37 ::: End of Function : getAllCat
+04-03-2016 00:22:37 ::: Start of Function : getAllCat
+04-03-2016 00:22:37 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:22:37 ::: End of Function : getAllCat
+04-03-2016 00:22:41 ::: Start of Function : getAllCat
+04-03-2016 00:22:41 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:22:41 ::: End of Function : getAllCat
+04-03-2016 00:22:42 ::: Start of Function : getAllCat
+04-03-2016 00:22:42 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:22:42 ::: End of Function : getAllCat
+04-03-2016 00:24:58 ::: Start of Function : getAllCat
+04-03-2016 00:24:58 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:24:58 ::: End of Function : getAllCat
+04-03-2016 00:24:58 ::: Start of Function : getAllCat
+04-03-2016 00:24:58 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:24:58 ::: End of Function : getAllCat
+04-03-2016 00:25:15 ::: Start of Function : getAllCat
+04-03-2016 00:25:15 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:25:15 ::: End of Function : getAllCat
+04-03-2016 00:25:15 ::: Start of Function : getAllCat
+04-03-2016 00:25:15 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:25:15 ::: End of Function : getAllCat
+04-03-2016 00:26:19 ::: Start of Function : getAllCat
+04-03-2016 00:26:19 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:26:19 ::: End of Function : getAllCat
+04-03-2016 00:29:37 ::: Start of Function : getAllCat
+04-03-2016 00:29:37 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:29:37 ::: End of Function : getAllCat
+04-03-2016 00:29:44 ::: Start of Function : getAllCat
+04-03-2016 00:29:44 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:29:44 ::: End of Function : getAllCat
+04-03-2016 00:36:27 ::: Start of Function : getAllCat
+04-03-2016 00:36:27 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:36:27 ::: End of Function : getAllCat
+04-03-2016 00:36:27 ::: Start of Function : getByCat
+04-03-2016 00:36:28 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '24' ;
+		
+		
+04-03-2016 00:36:28 ::: End of Function : getByCat
+04-03-2016 00:36:28 ::: Start of Function : getCat
+04-03-2016 00:36:28 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+04-03-2016 00:36:28 ::: End of Function : getCat
+04-03-2016 00:36:28 ::: Start of Function : getAllCat
+04-03-2016 00:36:28 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:36:28 ::: End of Function : getAllCat
+04-03-2016 00:36:30 ::: Start of Function : getAllCat
+04-03-2016 00:36:30 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:36:30 ::: End of Function : getAllCat
+04-03-2016 00:36:30 ::: Start of Function : getByCat
+04-03-2016 00:36:30 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '27' ;
+		
+		
+04-03-2016 00:36:30 ::: End of Function : getByCat
+04-03-2016 00:36:30 ::: Start of Function : getCat
+04-03-2016 00:36:30 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '27' AND `show_in_app` = 1
+04-03-2016 00:36:30 ::: End of Function : getCat
+04-03-2016 00:36:30 ::: Start of Function : getAllCat
+04-03-2016 00:36:30 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:36:30 ::: End of Function : getAllCat
+04-03-2016 00:36:32 ::: Start of Function : getAllCat
+04-03-2016 00:36:32 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:36:32 ::: End of Function : getAllCat
+04-03-2016 00:36:32 ::: Start of Function : getByCat
+04-03-2016 00:36:32 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '151' ;
+		
+		
+04-03-2016 00:36:32 ::: End of Function : getByCat
+04-03-2016 00:36:32 ::: Start of Function : getCat
+04-03-2016 00:36:32 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '151' AND `show_in_app` = 1
+04-03-2016 00:36:32 ::: End of Function : getCat
+04-03-2016 00:36:32 ::: Start of Function : getAllCat
+04-03-2016 00:36:32 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:36:32 ::: End of Function : getAllCat
+04-03-2016 00:36:34 ::: Start of Function : getAllCat
+04-03-2016 00:36:34 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:36:34 ::: End of Function : getAllCat
+04-03-2016 00:36:34 ::: Start of Function : getByCat
+04-03-2016 00:36:34 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '160' ;
+		
+		
+04-03-2016 00:36:34 ::: End of Function : getByCat
+04-03-2016 00:36:34 ::: Start of Function : getCat
+04-03-2016 00:36:34 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '160' AND `show_in_app` = 1
+04-03-2016 00:36:34 ::: End of Function : getCat
+04-03-2016 00:36:34 ::: Start of Function : getAllCat
+04-03-2016 00:36:34 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:36:34 ::: End of Function : getAllCat
+04-03-2016 00:36:37 ::: Start of Function : getAllCat
+04-03-2016 00:36:37 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:36:37 ::: End of Function : getAllCat
+04-03-2016 00:36:37 ::: Start of Function : getByCat
+04-03-2016 00:36:37 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '160' ;
+		
+		
+04-03-2016 00:36:37 ::: End of Function : getByCat
+04-03-2016 00:36:37 ::: Start of Function : getCat
+04-03-2016 00:36:37 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '160' AND `show_in_app` = 1
+04-03-2016 00:36:37 ::: End of Function : getCat
+04-03-2016 00:36:37 ::: Start of Function : getAllCat
+04-03-2016 00:36:37 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:36:37 ::: End of Function : getAllCat
+04-03-2016 00:36:38 ::: Start of Function : getAllCat
+04-03-2016 00:36:38 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:36:38 ::: End of Function : getAllCat
+04-03-2016 00:40:47 ::: Start of Function : getAllCat
+04-03-2016 00:40:47 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:40:47 ::: End of Function : getAllCat
+04-03-2016 00:40:51 ::: Start of Function : getAllCat
+04-03-2016 00:40:51 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:40:51 ::: End of Function : getAllCat
+04-03-2016 00:40:54 ::: Start of Function : getAllCat
+04-03-2016 00:40:54 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:40:54 ::: End of Function : getAllCat
+04-03-2016 00:41:20 ::: Start of Function : getAllCat
+04-03-2016 00:41:20 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:41:20 ::: End of Function : getAllCat
+04-03-2016 00:41:20 ::: Start of Function : getAllCat
+04-03-2016 00:41:20 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:41:20 ::: End of Function : getAllCat
+04-03-2016 00:42:00 ::: Start of Function : getAllCat
+04-03-2016 00:42:00 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:42:00 ::: End of Function : getAllCat
+04-03-2016 00:46:10 ::: Start of Function : getAllCat
+04-03-2016 00:46:10 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:46:10 ::: End of Function : getAllCat
+04-03-2016 00:55:06 ::: Start of Function : getAllCat
+04-03-2016 00:55:06 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:55:06 ::: End of Function : getAllCat
+04-03-2016 00:55:41 ::: Start of Function : getAllCat
+04-03-2016 00:55:41 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:55:41 ::: End of Function : getAllCat
+04-03-2016 00:55:41 ::: Start of Function : getByCat
+04-03-2016 00:55:41 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '24' ;
+		
+		
+04-03-2016 00:55:41 ::: End of Function : getByCat
+04-03-2016 00:55:41 ::: Start of Function : getCat
+04-03-2016 00:55:41 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+04-03-2016 00:55:41 ::: End of Function : getCat
+04-03-2016 00:55:41 ::: Start of Function : getAllCat
+04-03-2016 00:55:41 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+04-03-2016 00:55:41 ::: End of Function : getAllCat
+05-03-2016 15:32:23 ::: Start of Function : getAllCat
+05-03-2016 15:32:23 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 15:32:23 ::: End of Function : getAllCat
+05-03-2016 15:32:29 ::: Start of Function : getAllCat
+05-03-2016 15:32:29 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 15:32:29 ::: End of Function : getAllCat
+05-03-2016 15:32:29 ::: Start of Function : getByCat
+05-03-2016 15:32:29 ::: Query Executed Successfully. ::: SELECT * FROM `singleent` s JOIN `singleentadd` a ON s.owner_id = a.owner_id WHERE s.category_id = '24' ;
+		
+		
+05-03-2016 15:32:29 ::: End of Function : getByCat
+05-03-2016 15:32:29 ::: Start of Function : getCat
+05-03-2016 15:32:29 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+05-03-2016 15:32:29 ::: End of Function : getCat
+05-03-2016 15:32:29 ::: Start of Function : getAllCat
+05-03-2016 15:32:29 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 15:32:29 ::: End of Function : getAllCat
+05-03-2016 16:02:43 ::: Start of Function : getAllCat
+05-03-2016 16:02:43 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 16:02:43 ::: End of Function : getAllCat
+05-03-2016 16:02:43 ::: Start of Function : getByCat
+05-03-2016 16:02:43 ::: Query Executed Successfully. ::: SELECT `ent_id` as `id`, `owner_id`, `category_id`, `ent_name` as `name`, `ent_details` as `details` FROM `singleent` WHERE  `category_id` = '24' 
+            
+            UNION 
+
+            SELECT `service_id` as `id`, `owner_id`, `category_id`, `service_name` as `name`, `service_details` as `details` FROM `ownerservice` WHERE `category_id` = '24'
+        ;
+05-03-2016 16:02:43 ::: End of Function : getByCat
+05-03-2016 16:02:43 ::: Start of Function : getCat
+05-03-2016 16:02:43 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+05-03-2016 16:02:43 ::: End of Function : getCat
+05-03-2016 16:02:43 ::: Start of Function : getAllCat
+05-03-2016 16:02:43 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 16:02:43 ::: End of Function : getAllCat
+05-03-2016 16:04:48 ::: Start of Function : getAllCat
+05-03-2016 16:04:48 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 16:04:48 ::: End of Function : getAllCat
+05-03-2016 16:04:48 ::: Start of Function : getByCat
+05-03-2016 16:04:48 ::: Query Executed Successfully. ::: SELECT `ent_id` as `id`, `owner_id`, `category_id`, `ent_name` as `name`, `ent_details` as `details` FROM `singleent` WHERE  `category_id` = '24' 
+            
+            UNION 
+
+            SELECT `service_id` as `id`, `owner_id`, `category_id`, `service_name` as `name`, `service_details` as `details` FROM `ownerservice` WHERE `category_id` = '24'
+        ;
+05-03-2016 16:04:48 ::: End of Function : getByCat
+05-03-2016 16:04:48 ::: Start of Function : getCat
+05-03-2016 16:04:48 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+05-03-2016 16:04:48 ::: End of Function : getCat
+05-03-2016 16:04:48 ::: Start of Function : getAllCat
+05-03-2016 16:04:48 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 16:04:48 ::: End of Function : getAllCat
+05-03-2016 16:08:06 ::: Start of Function : getAllCat
+05-03-2016 16:08:06 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 16:08:06 ::: End of Function : getAllCat
+05-03-2016 16:08:06 ::: Start of Function : getByCat
+05-03-2016 16:08:06 ::: Query Executed Successfully. ::: SELECT `ent_id` as `id`, `owner_id`, `category_id`, `ent_name` as `name`, `ent_details` as `details` FROM `singleent` WHERE  `category_id` = '24' 
+            
+            UNION 
+
+            SELECT `service_id` as `id`, `owner_id`, `category_id`, `service_name` as `name`, `service_details` as `details` FROM `ownerservice` WHERE `category_id` = '24'
+        ;
+05-03-2016 16:08:06 ::: End of Function : getByCat
+05-03-2016 16:08:06 ::: Start of Function : getCat
+05-03-2016 16:08:06 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+05-03-2016 16:08:06 ::: End of Function : getCat
+05-03-2016 16:08:06 ::: Start of Function : getAllCat
+05-03-2016 16:08:06 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 16:08:06 ::: End of Function : getAllCat
+05-03-2016 16:33:40 ::: Start of Function : getAllCat
+05-03-2016 16:33:40 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 16:33:40 ::: End of Function : getAllCat
+05-03-2016 16:33:40 ::: Start of Function : getByCat
+05-03-2016 16:33:40 ::: Query Executed Successfully. ::: SELECT `ent_id` as `id`, `owner_id`, `category_id`, `ent_name` as `name`, `ent_details` as `details` FROM `singleent` WHERE  `category_id` = '24' 
+            
+            UNION 
+
+            SELECT `service_id` as `id`, `owner_id`, `category_id`, `service_name` as `name`, `service_details` as `details` FROM `ownerservice` WHERE `category_id` = '24'
+        ;
+05-03-2016 16:33:40 ::: End of Function : getByCat
+05-03-2016 16:33:40 ::: Start of Function : getCat
+05-03-2016 16:33:40 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+05-03-2016 16:33:40 ::: End of Function : getCat
+05-03-2016 16:33:40 ::: Start of Function : getAllCat
+05-03-2016 16:33:40 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 16:33:40 ::: End of Function : getAllCat
+05-03-2016 16:34:37 ::: Start of Function : getAllCat
+05-03-2016 16:34:37 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 16:34:37 ::: End of Function : getAllCat
+05-03-2016 16:34:37 ::: Start of Function : getByCat
+05-03-2016 16:34:37 ::: Query Execution failed. ::: SELECT `ent_id` as `id`, `owner_id`, `category_id`, `ent_name` as `name`, `ent_details` as `details` FROM `singleent` WHERE  `category_id` = '24' 
+            
+            UNION ALL
+
+            SELECT `service_id` as `id`, `owner_id`, `category_id`, `service_name` as `name`, `service_details` as `details`, service_website FROM `ownerservice` WHERE `category_id` = '24'
+        ; ::: 
+05-03-2016 16:34:37 ::: End of Function : getByCat
+05-03-2016 16:34:37 ::: Start of Function : getCat
+05-03-2016 16:34:37 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+05-03-2016 16:34:37 ::: End of Function : getCat
+05-03-2016 16:34:37 ::: Start of Function : getAllCat
+05-03-2016 16:34:37 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 16:34:37 ::: End of Function : getAllCat
+05-03-2016 16:34:48 ::: Start of Function : getAllCat
+05-03-2016 16:34:48 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 16:34:48 ::: End of Function : getAllCat
+05-03-2016 16:34:48 ::: Start of Function : getByCat
+05-03-2016 16:34:48 ::: Query Executed Successfully. ::: SELECT `ent_id` as `id`, `owner_id`, `category_id`, `ent_name` as `name`, `ent_details` as `details` FROM `singleent` WHERE  `category_id` = '24' 
+            
+            UNION ALL
+
+            SELECT `service_id` as `id`, `owner_id`, `category_id`, `service_name` as `name`, `service_details` as `details` FROM `ownerservice` WHERE `category_id` = '24'
+        ;
+05-03-2016 16:34:48 ::: End of Function : getByCat
+05-03-2016 16:34:48 ::: Start of Function : getCat
+05-03-2016 16:34:48 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+05-03-2016 16:34:48 ::: End of Function : getCat
+05-03-2016 16:34:48 ::: Start of Function : getAllCat
+05-03-2016 16:34:48 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 16:34:48 ::: End of Function : getAllCat
+05-03-2016 16:34:57 ::: Start of Function : getAllCat
+05-03-2016 16:34:57 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 16:34:57 ::: End of Function : getAllCat
+05-03-2016 16:34:57 ::: Start of Function : getByCat
+05-03-2016 16:34:57 ::: Query Executed Successfully. ::: SELECT `ent_id` as `id`, `owner_id`, `category_id`, `ent_name` as `name`, `ent_details` as `details` FROM `singleent` WHERE  `category_id` = '24' 
+            
+            UNION
+
+            SELECT `service_id` as `id`, `owner_id`, `category_id`, `service_name` as `name`, `service_details` as `details` FROM `ownerservice` WHERE `category_id` = '24'
+        ;
+05-03-2016 16:34:57 ::: End of Function : getByCat
+05-03-2016 16:34:57 ::: Start of Function : getCat
+05-03-2016 16:34:57 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+05-03-2016 16:34:57 ::: End of Function : getCat
+05-03-2016 16:34:57 ::: Start of Function : getAllCat
+05-03-2016 16:34:57 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 16:34:57 ::: End of Function : getAllCat
+05-03-2016 17:41:04 ::: Start of Function : getAllCat
+05-03-2016 17:41:04 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 17:41:04 ::: End of Function : getAllCat
+05-03-2016 17:41:04 ::: Start of Function : getByCat
+05-03-2016 17:41:05 ::: Query Execution failed. ::: SELECT `ent_id` as `id`, `owner_id`, `category_id`, `ent_name` as `name`, `ent_details` as `details` FROM `singleent` WHERE  `category_id` = '24' as show_source()
+            
+            UNION
+
+            SELECT `service_id` as `id`, `owner_id`, `category_id`, `service_name` as `name`, `service_details` as `details` FROM `ownerservice` WHERE `category_id` = '24' as show_source()
+        ; ::: 
+05-03-2016 17:41:05 ::: End of Function : getByCat
+05-03-2016 17:41:05 ::: Start of Function : getCat
+05-03-2016 17:41:05 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+05-03-2016 17:41:05 ::: End of Function : getCat
+05-03-2016 17:41:05 ::: Start of Function : getAllCat
+05-03-2016 17:41:05 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 17:41:05 ::: End of Function : getAllCat
+05-03-2016 17:41:22 ::: Start of Function : getAllCat
+05-03-2016 17:41:22 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 17:41:22 ::: End of Function : getAllCat
+05-03-2016 17:41:22 ::: Start of Function : getByCat
+05-03-2016 17:41:22 ::: Query Executed Successfully. ::: SELECT `ent_id` as `id`, `owner_id`, `category_id`, `ent_name` as `name`, `ent_details` as `details` FROM `singleent` WHERE  `category_id` = '24' 
+            
+            UNION
+
+            SELECT `service_id` as `id`, `owner_id`, `category_id`, `service_name` as `name`, `service_details` as `details` FROM `ownerservice` WHERE `category_id` = '24' 
+        ;
+05-03-2016 17:41:22 ::: End of Function : getByCat
+05-03-2016 17:41:22 ::: Start of Function : getCat
+05-03-2016 17:41:22 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+05-03-2016 17:41:22 ::: End of Function : getCat
+05-03-2016 17:41:22 ::: Start of Function : getAllCat
+05-03-2016 17:41:22 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 17:41:22 ::: End of Function : getAllCat
+05-03-2016 17:44:15 ::: Start of Function : getAllCat
+05-03-2016 17:44:15 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 17:44:15 ::: End of Function : getAllCat
+05-03-2016 17:44:15 ::: Start of Function : getByCat
+05-03-2016 17:44:15 ::: Query Execution failed. ::: SELECT `a` as `table`, `ent_id` as `id`, `owner_id`, `category_id`, `ent_name` as `name`, `ent_details` as `details` FROM `singleent`  WHERE  `category_id` = '24' 
+            
+            UNION
+
+            SELECT `b` as `table`, `service_id` as `id`, `owner_id`, `category_id`, `service_name` as `name`, `service_details` as `details` FROM `ownerservice` as  source_table1 WHERE `category_id` = '24' 
+        ; ::: 
+05-03-2016 17:44:15 ::: End of Function : getByCat
+05-03-2016 17:44:15 ::: Start of Function : getCat
+05-03-2016 17:44:15 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+05-03-2016 17:44:15 ::: End of Function : getCat
+05-03-2016 17:44:15 ::: Start of Function : getAllCat
+05-03-2016 17:44:15 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 17:44:15 ::: End of Function : getAllCat
+05-03-2016 17:44:45 ::: Start of Function : getAllCat
+05-03-2016 17:44:45 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 17:44:45 ::: End of Function : getAllCat
+05-03-2016 17:44:45 ::: Start of Function : getByCat
+05-03-2016 17:44:45 ::: Query Execution failed. ::: SELECT `singleent` as `table`, `ent_id` as `id`, `owner_id`, `category_id`, `ent_name` as `name`, `ent_details` as `details` FROM `singleent`  WHERE  `category_id` = '24' 
+            
+            UNION
+
+            SELECT `ownerservice` as `table`, `service_id` as `id`, `owner_id`, `category_id`, `service_name` as `name`, `service_details` as `details` FROM `ownerservice` as  source_table1 WHERE `category_id` = '24' 
+        ; ::: 
+05-03-2016 17:44:45 ::: End of Function : getByCat
+05-03-2016 17:44:45 ::: Start of Function : getCat
+05-03-2016 17:44:45 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+05-03-2016 17:44:45 ::: End of Function : getCat
+05-03-2016 17:44:45 ::: Start of Function : getAllCat
+05-03-2016 17:44:45 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 17:44:45 ::: End of Function : getAllCat
+05-03-2016 17:49:47 ::: Start of Function : getAllCat
+05-03-2016 17:49:47 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 17:49:47 ::: End of Function : getAllCat
+05-03-2016 17:49:47 ::: Start of Function : getByCat
+05-03-2016 17:49:47 ::: Query Executed Successfully. ::: SELECT 'table singleent' as source_table, `ent_id` as `id`, `owner_id`, `category_id`, `ent_name` as `name`, `ent_details` as `details` FROM `singleent`  WHERE  `category_id` = '24' 
+            
+            UNION
+
+            SELECT 'table_ownerservice' as source_table, `service_id` as `id`, `owner_id`, `category_id`, `service_name` as `name`, `service_details` as `details` FROM `ownerservice` as  source_table1 WHERE `category_id` = '24' 
+        ;
+05-03-2016 17:49:47 ::: End of Function : getByCat
+05-03-2016 17:49:47 ::: Start of Function : getCat
+05-03-2016 17:49:47 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+05-03-2016 17:49:47 ::: End of Function : getCat
+05-03-2016 17:49:47 ::: Start of Function : getAllCat
+05-03-2016 17:49:47 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 17:49:47 ::: End of Function : getAllCat
+05-03-2016 17:50:49 ::: Start of Function : getAllCat
+05-03-2016 17:50:49 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 17:50:49 ::: End of Function : getAllCat
+05-03-2016 17:50:49 ::: Start of Function : getByCat
+05-03-2016 17:50:49 ::: Query Executed Successfully. ::: SELECT 'singleent' as source_table, `ent_id` as `id`, `owner_id`, `category_id`, `ent_name` as `name`, `ent_details` as `details` FROM `singleent`  WHERE  `category_id` = '24' 
+            
+            UNION
+
+            SELECT 'ownerservice' as source_table, `service_id` as `id`, `owner_id`, `category_id`, `service_name` as `name`, `service_details` as `details` FROM `ownerservice` as  source_table1 WHERE `category_id` = '24' 
+        ;
+05-03-2016 17:50:49 ::: End of Function : getByCat
+05-03-2016 17:50:49 ::: Start of Function : getCat
+05-03-2016 17:50:49 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+05-03-2016 17:50:49 ::: End of Function : getCat
+05-03-2016 17:50:49 ::: Start of Function : getAllCat
+05-03-2016 17:50:49 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+05-03-2016 17:50:49 ::: End of Function : getAllCat
+09-03-2016 00:31:16 ::: Start of Function : getAllCat
+09-03-2016 00:31:29 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+09-03-2016 00:31:29 ::: End of Function : getAllCat
+09-03-2016 00:31:29 ::: Start of Function : getByCat
+09-03-2016 00:31:41 ::: Query Executed Successfully. ::: SELECT 'singleent' as source_table, `ent_id` as `id`, `owner_id`, `category_id`, `ent_name` as `name`, `ent_details` as `details` FROM `singleent`  WHERE  `category_id` = '24' 
+            
+            UNION
+
+            SELECT 'ownerservice' as source_table, `service_id` as `id`, `owner_id`, `category_id`, `service_name` as `name`, `service_details` as `details` FROM `ownerservice` as  source_table1 WHERE `category_id` = '24' 
+        ;
+09-03-2016 00:31:41 ::: End of Function : getByCat
+09-03-2016 00:31:41 ::: Start of Function : getCat
+09-03-2016 00:31:42 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `category_id` = '24' AND `show_in_app` = 1
+09-03-2016 00:31:42 ::: End of Function : getCat
+09-03-2016 00:31:44 ::: Start of Function : getAllCat
+09-03-2016 00:31:44 ::: Query Executed Successfully. ::: SELECT * FROM `category` WHERE `show_in_app` = 1
+09-03-2016 00:31:44 ::: End of Function : getAllCat
+

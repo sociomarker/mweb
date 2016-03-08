@@ -1,0 +1,89 @@
+02-03-2016 12:41:40 ::: Start of Function : isUserExisted
+02-03-2016 12:41:40 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='garg.saurabh.2014@gmail.com';
+02-03-2016 12:41:40 ::: End of Function : isUserExisted
+02-03-2016 12:44:05 ::: Start of Function : isUserExisted
+02-03-2016 12:44:05 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='garg.saurabh.2014@gmail.com';
+02-03-2016 12:44:05 ::: End of Function : isUserExisted
+02-03-2016 12:48:41 ::: Start of Function : isUserExisted
+02-03-2016 12:48:41 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='garg.saurabh.2014@gmail.com';
+02-03-2016 12:48:41 ::: End of Function : isUserExisted
+02-03-2016 12:51:08 ::: Start of Function : isUserExisted
+02-03-2016 12:51:08 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='garg.saurabh.2014@gmail.com';
+02-03-2016 12:51:08 ::: End of Function : isUserExisted
+02-03-2016 12:51:33 ::: Start of Function : isUserExisted
+02-03-2016 12:51:33 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='garg.saurabh.2014@gmail.com';
+02-03-2016 12:51:33 ::: End of Function : isUserExisted
+02-03-2016 12:58:02 ::: Start of Function : isUserExisted
+02-03-2016 12:58:02 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='garg.saurabh.2014@gmail.com';
+02-03-2016 12:58:02 ::: End of Function : isUserExisted
+02-03-2016 12:59:41 ::: Start of Function : isUserExisted
+02-03-2016 12:59:41 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='garg.saurabh.2014@gmail.com';
+02-03-2016 12:59:41 ::: End of Function : isUserExisted
+02-03-2016 13:00:56 ::: Start of Function : isUserExisted
+02-03-2016 13:00:56 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='garg.saurabh.2014@gmail.com';
+02-03-2016 13:00:56 ::: End of Function : isUserExisted
+02-03-2016 13:01:22 ::: Start of Function : isUserExisted
+02-03-2016 13:01:22 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='garg.saurabh.2014@gmail.com';
+02-03-2016 13:01:22 ::: End of Function : isUserExisted
+02-03-2016 13:01:58 ::: Start of Function : isUserExisted
+02-03-2016 13:01:58 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='garg.saurabh.2014@gmail.com';
+02-03-2016 13:01:58 ::: End of Function : isUserExisted
+02-03-2016 13:02:46 ::: Start of Function : isUserExisted
+02-03-2016 13:02:46 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='garg.saurabh.2014@gmail.com';
+02-03-2016 13:02:46 ::: End of Function : isUserExisted
+02-03-2016 13:04:32 ::: Start of Function : isUserExisted
+02-03-2016 13:04:32 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='we@miamia.co.in';
+02-03-2016 13:04:32 ::: Start of Function : registeruser
+02-03-2016 13:04:33 ::: Query Executed Successfully.::: user_id=$user_id::: INSERT INTO `user` (`user_id`,`full_name`, `pass`,`email_id`, `phone` ,`isActive`,`user_address`,`created_at`,`dob`,`gender`,`regsource`,`dp`,`cover`) VALUES (NULL, 'Utpal Upadhyay','justdoit','we@miamia.co.in','8108948108','0','', '2016-03-02 13:04:32','','','0','','');
+02-03-2016 13:04:33 ::: End of Function : registeruser
+02-03-2016 13:09:44 ::: Start of Function : isUserExisted
+02-03-2016 13:09:44 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='we1@miamia.co.in';
+02-03-2016 13:09:44 ::: Start of Function : registeruser
+02-03-2016 13:09:44 ::: Query Executed Successfully.::: user_id=$user_id::: INSERT INTO `user` (`user_id`,`full_name`, `pass`,`email_id`, `phone` ,`isActive`,`user_address`,`created_at`,`dob`,`gender`,`regsource`,`dp`,`cover`) VALUES (NULL, 'Utpal Upadhyay','justdoit','we1@miamia.co.in','8108948108','0','', '2016-03-02 13:09:44','','','0','','');
+02-03-2016 13:09:44 ::: End of Function : registeruser
+02-03-2016 13:45:39 ::: Start of Function : isUserExisted
+02-03-2016 13:45:39 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='we@miamia.co.in';
+02-03-2016 13:45:39 ::: Start of Function : registeruser
+02-03-2016 13:45:39 ::: Query Executed Successfully.::: user_id=$user_id::: INSERT INTO `user` (`user_id`,`full_name`, `pass`,`email_id`, `phone` ,`isActive`,`user_address`,`created_at`,`dob`,`gender`,`regsource`,`dp`,`cover`) VALUES (NULL, 'Utpal Upadhyay','19f9f30bd097d4c066d758fb01b75032','we@miamia.co.in','8108948108','0','', '2016-03-02 13:45:39','','','0','','');
+02-03-2016 13:45:39 ::: End of Function : registeruser
+02-03-2016 13:56:12 ::: Start of Function : userindb
+02-03-2016 13:56:12 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='we@miamia.co.in' AND pass='19f9f30bd097d4c066d758fb01b75032' ;
+02-03-2016 13:56:12 ::: End of Function : userindb
+02-03-2016 13:56:36 ::: Start of Function : userindb
+02-03-2016 13:56:36 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='we@miamia.co.in' AND pass='19f9f30bd097d4c066d758fb01b75032' ;
+02-03-2016 13:56:36 ::: End of Function : userindb
+02-03-2016 15:08:49 ::: Start of Function : userindb
+02-03-2016 15:08:49 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='we@miamia.co.in' AND pass='19f9f30bd097d4c066d758fb01b75032' ;
+02-03-2016 15:08:49 ::: End of Function : userindb
+02-03-2016 15:19:48 ::: Start of Function : userindb
+02-03-2016 15:19:48 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='we@miamia.co.in' AND pass='19f9f30bd097d4c066d758fb01b75032' ;
+02-03-2016 15:19:48 ::: End of Function : userindb
+02-03-2016 15:22:57 ::: Start of Function : userindb
+02-03-2016 15:22:57 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='we@miamia.co.in' AND pass='19f9f30bd097d4c066d758fb01b75032' ;
+02-03-2016 15:22:57 ::: End of Function : userindb
+02-03-2016 15:24:47 ::: Start of Function : userindb
+02-03-2016 15:24:47 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='we@miamia.co.in' AND pass='19f9f30bd097d4c066d758fb01b75032' ;
+02-03-2016 15:24:47 ::: End of Function : userindb
+02-03-2016 15:25:04 ::: Start of Function : userindb
+02-03-2016 15:25:04 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='we@miamia.co.in' AND pass='19f9f30bd097d4c066d758fb01b75032' ;
+02-03-2016 15:25:04 ::: End of Function : userindb
+02-03-2016 19:17:48 ::: Start of Function : userindb
+02-03-2016 19:17:51 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='we@miamia.co.in' AND pass='19f9f30bd097d4c066d758fb01b75032' ;
+02-03-2016 19:17:51 ::: End of Function : userindb
+03-03-2016 18:55:44 ::: Start of Function : userindb
+03-03-2016 18:55:44 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='utpal.n.upadhyay@gmail.com' AND pass='19f9f30bd097d4c066d758fb01b75032' ;
+04-03-2016 00:21:43 ::: Start of Function : isUserExisted
+04-03-2016 00:21:43 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='utpal@hotmail.com';
+04-03-2016 00:21:43 ::: Start of Function : registeruser
+04-03-2016 00:21:43 ::: Query Executed Successfully.::: user_id=$user_id::: INSERT INTO `user` (`user_id`,`full_name`, `pass`,`email_id`, `phone` ,`isActive`,`user_address`,`created_at`,`dob`,`gender`,`regsource`,`dp`,`cover`) VALUES (NULL, 'Utpal','19f9f30bd097d4c066d758fb01b75032','utpal@hotmail.com','9819525367','0','', '2016-03-04 00:21:43','','','0','','');
+04-03-2016 00:21:43 ::: End of Function : registeruser
+04-03-2016 00:22:16 ::: Start of Function : userindb
+04-03-2016 00:22:16 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='utpal@hotmail.com' AND pass='19f9f30bd097d4c066d758fb01b75032' ;
+04-03-2016 00:22:16 ::: End of Function : userindb
+04-03-2016 00:22:36 ::: Start of Function : userindb
+04-03-2016 00:22:37 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='utpal@hotmail.com' AND pass='19f9f30bd097d4c066d758fb01b75032' ;
+04-03-2016 00:22:37 ::: End of Function : userindb
+04-03-2016 00:41:19 ::: Start of Function : userindb
+04-03-2016 00:41:20 ::: Query Executed Successfully. ::: SELECT * FROM `user` WHERE email_id='utpal@hotmail.com' AND pass='19f9f30bd097d4c066d758fb01b75032' ;
+04-03-2016 00:41:20 ::: End of Function : userindb
+
