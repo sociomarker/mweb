@@ -1,3 +1,5 @@
 <?php 
-echo "utpal";
+function Utpal(){
+	echo "Utpal";
+}
 ?>
